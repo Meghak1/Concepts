@@ -1,1 +1,19 @@
 Some of the important github commands are,
+
+1. git init : Initializes a new Git repository in the current directory.
+2. git clone URL : Clones an existing repository from the specified URL.
+3. git add file : Adds a specific file to the staging area.
+4. git commit -m "message": Commits the staged changes with a message.
+5. git status: Shows the status of changes in the working directory and staging area.
+6. git push : Uploads local repository content to a remote repository.
+7. git pull: Fetches and integrates changes from a remote repository.
+8. git branch : Lists, creates, or deletes branches.
+9. git checkout branch-name : Switches to the specified branch.
+10.git merge branch-name : Merges the specified branch into the current branch.
+11. git log : Displays the commit history.
+12. git remote -v : Displays the remote repositories associated with the local repository.
+13. git fetch : Downloads changes from a remote repository without integrating them.
+14. git reset file : Removes a file from the staging area.
+15. git revert commit: Creates a new commit that undoes changes from a specified commit.
+
+
